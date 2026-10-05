@@ -7,13 +7,7 @@ __pycache__/
 # Bodega local: se reconstruye con `make run`
 data/warehouse/
 
-# Enunciado original (documento de la empresa)
-enunciado/
-
 # Editor / sistema
 .vscode/
 .idea/
 .DS_Store
-
-# Material de trabajo que no hace parte de la entrega
-entregables/
